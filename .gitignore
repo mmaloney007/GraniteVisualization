@@ -1,0 +1,13 @@
+.settings
+bin
+.classpath
+.project
+Chess.png
+Test_1.png
+Test_2.png
+Test_3.png
+demo
+physics
+presentation
+debug.log
+make.sh
