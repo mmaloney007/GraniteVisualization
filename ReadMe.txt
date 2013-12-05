@@ -1,8 +1,8 @@
 ********************************************************************************
-****************************** Granite Vision **********************************
+****************************** GraniteVision ***********************************
 ********************************************************************************
 
---------------------- Solar Winds Visualization System -------------------------
+--------------- Previously the Solar Winds Visualization System ----------------
 
 This software is intended to facilitate rapid data manipulation and rendering
 for the solar winds project at the University of New Hampshire. It accepts
@@ -15,7 +15,7 @@ Authors:          Stephen Dunn              (stephen@cs.unh.edu)
                   Mike Maloney              (mikey.maloney@me.com)
                   Daniel Bergeron [Granite] (rdb@cs.unh.edu)
                   
-Submission Date:  5/19/2013
+Publication Date:  5/19/2013
 -----------------------------------------------
 Files Authored:
 
