@@ -1,5 +1,5 @@
 ********************************************************************************
-**************************** CS880 Final Project *******************************
+****************************** Granite Vision **********************************
 ********************************************************************************
 
 --------------------- Solar Winds Visualization System -------------------------
@@ -11,9 +11,9 @@ a subsystem (Granite, see below), and allows visualzation of desired regions
 of the data.
 
 -----------------------------------------------
-Authors:          Daniel Bergeron (rdb@cs.unh.edu)
-                  Mike Maloney (mikey.maloney@me.com)
-                  Stephen Dunn (stephen@cs.unh.edu)
+Authors:          Stephen Dunn              (stephen@cs.unh.edu)
+                  Mike Maloney              (mikey.maloney@me.com)
+                  Daniel Bergeron [Granite] (rdb@cs.unh.edu)
                   
 Submission Date:  5/19/2013
 -----------------------------------------------
@@ -44,7 +44,7 @@ DEPENDENCIES:
   Required        Name                      Purpose
   ---------       ---------                 ---------
   [X]             Java Runtime (>= 1.6)     Compiler/Runtime Environment
-  [X]             Granite                   Data Management
+  [X]             Granite                   Data Management (http://www.cs.unh.edu/~sdb/)
   [ ]             ViewSlice.java            For use with PhysView
   [ ]             OrangeExtensions*         Additional OSX Support
 --------------------------------------------------------------------------------
