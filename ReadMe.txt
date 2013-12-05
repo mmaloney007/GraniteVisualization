@@ -4,11 +4,31 @@
 
 --------------- Previously the Solar Winds Visualization System ----------------
 
-This software is intended to facilitate rapid data manipulation and rendering
-for the solar winds project at the University of New Hampshire. It accepts
-simulation data in the form of ASCII files (valid UTF-8), loads them into
-a subsystem (Granite, see below), and allows visualzation of desired regions
-of the data.
+This software was originally intended to facilitate rapid data manipulation and 
+rendering for the solar winds project at the University of New Hampshire. It
+has been modified and re-released as a general purpose data processing tool
+founded on the Granite system (details below).
+
+It accepts input as ASCII files (valid UTF-8) or RAW binary in both standard
+and customizable format specifications, and then subsequently prepares them for
+traversal and scientific analysis or further extraction using Granite. Simple
+utilities are provided for basic visualization and processing tasks on any desired 
+region of the data, which is handled by Granite to maximize likely utility and 
+speed. The user does not require any familiarity with Granite's operation, 
+although naturally such knowledge will only empower a user to make the most from
+both Granite and GraniteVision. 
+
+See the Wiki and Granite homepage below for more details.
+
+Run the program passing "-?" or view the source for full documentation of accepted
+formats, how to specify a custom header and format structure for your datam, and 
+various examples to get you up and running with the commandline utilities, if
+you require more advanced functionality.
+
+Please consider submitting any contributions you make for consideration in the
+official public repository! Bug reports can be filed on the BitBucket page at:
+https://bitbucket.org/entangledloops/granitevision/issues?status=new&status=open
+
 
 -----------------------------------------------
 Authors:          Stephen Dunn              (stephen@cs.unh.edu)
