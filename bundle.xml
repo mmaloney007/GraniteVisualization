@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="PhysView" default="default" basedir=".">     
+<import file="nbproject/build.xml"/>   
+    <taskdef name="bundleapp"
+             classname="com.oracle.appbundler.AppBundlerTask"   
+             classpath="lib/appbundler-1.0.jar" />
+
+    <target name="PhysView">
+        <bundleapp outputdirectory="dist"
+            name="PhysView"
+            displayname="PhysView"
+            identifier="physics.PhysView"
+            mainclassname="physics.PhysView">
+            <classpath file="dist/PhysView.jar" />
+        </bundleapp>
+    </target>
+
+</project>

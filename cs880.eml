@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<excludeFolder url="file://$MODULE_DIR$/.idea"/>
+		<excludeFolder url="file://$MODULE_DIR$/.settings"/>
+		<excludeFolder url="file://$MODULE_DIR$/PhysView"/>
+		<excludeFolder url="file://$MODULE_DIR$/SDEngine"/>
+		<excludeFolder url="file://$MODULE_DIR$/backup_5_19_2013"/>
+		<excludeFolder url="file://$MODULE_DIR$/data"/>
+		<excludeFolder url="file://$MODULE_DIR$/demo"/>
+		<excludeFolder url="file://$MODULE_DIR$/dist"/>
+		<excludeFolder url="file://$MODULE_DIR$/my_code"/>
+		<excludeFolder url="file://$MODULE_DIR$/other_src"/>
+		<excludeFolder url="file://$MODULE_DIR$/out"/>
+		<excludeFolder url="file://$MODULE_DIR$/physics"/>
+		<excludeFolder url="file://$MODULE_DIR$/presentation"/>
+		<excludeFolder url="file://$MODULE_DIR$/slicer-rdb"/>
+		<excludeFolder url="file://$MODULE_DIR$/slicerJOGL"/>
+	</contentEntry>
+</component>
